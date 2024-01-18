@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "food_sector_types",
+  "info": {
+    "singularName": "food-sector-type",
+    "pluralName": "food-sector-types",
+    "displayName": "FoodSectorType"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}
