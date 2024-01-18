@@ -65,7 +65,6 @@ $RECYCLE.BIN/
 # Logs and databases
 ############################
 
-.tmp
 *.log
 *.sql
 *.sqlite
@@ -112,3 +111,5 @@ exports
 dist
 build
 .strapi-updater.json
+
+.vercel
